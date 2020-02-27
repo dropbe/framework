@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'kongo';
+  src: url('https://raw.githack.com/dropbe/framework/master/fonts/kongsho/kongo.eot');
+  src: url('https://raw.githack.com/dropbe/framework/master/fonts/kongsho/kongo.woff2') format('woff2'),
+	   url('https://raw.githack.com/dropbe/framework/master/fonts/kongsho/kongo.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.bn-text{
+	font-family: 'kongo';
+}
